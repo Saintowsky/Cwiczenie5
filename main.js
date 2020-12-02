@@ -9,6 +9,8 @@ function ZdjecieZaladowane(e) {
   console.log(`Really loaded, width: ${Zdjecie.width}`);
 }
 
+//komentarz
+
 let pliki = [
   "https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2015/12/shutterstock_40624609.jpg",
   "https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2015/12/shutterstock_234047623.jpg",
