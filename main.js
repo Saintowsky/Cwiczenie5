@@ -5,7 +5,7 @@ const img4 = "https://picsum.photos/id/217/200/300";
 const img5 = "https://picsum.photos/id/250/200/300";
 
 const photos = [img1, img2, img3, img4, img5];
-// komentarz
+// komentarz 2
 
 let currentIndex = 1;
 
